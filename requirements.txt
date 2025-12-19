@@ -1,0 +1,26 @@
+playwright
+beautifulsoup4
+requests
+pandas
+openpyxl
+
+# RAG & Embeddings
+langchain
+langchain-groq
+sentence-transformers
+faiss-cpu
+chromadb
+
+# API
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# UI
+streamlit
+
+# Utils
+python-dotenv
+lxml
+aiohttp

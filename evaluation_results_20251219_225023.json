@@ -1,0 +1,79 @@
+{
+  "mean_recall@10": 0.27111111111111114,
+  "mean_precision@10": 0.18,
+  "total_found": 18,
+  "total_ground_truth": 65,
+  "num_queries": 10,
+  "per_query_results": [
+    {
+      "query": "I am hiring for Java developers who can also collaborate effectively with my bus...",
+      "recall@10": 0.6,
+      "precision@10": 0.3,
+      "found": 3,
+      "total_gt": 5
+    },
+    {
+      "query": "I want to hire new graduates for a sales role in my company, the budget is for a...",
+      "recall@10": 0.3333333333333333,
+      "precision@10": 0.3,
+      "found": 3,
+      "total_gt": 9
+    },
+    {
+      "query": "I am looking for a COO for my company in China and I want to see if they are cul...",
+      "recall@10": 0.0,
+      "precision@10": 0.0,
+      "found": 0,
+      "total_gt": 6
+    },
+    {
+      "query": "KEY RESPONSIBITILES:\n\nManage the sound-scape of the station through appropriate ...",
+      "recall@10": 0.2,
+      "precision@10": 0.1,
+      "found": 1,
+      "total_gt": 5
+    },
+    {
+      "query": "Content Writer required, expert in English and SEO.",
+      "recall@10": 0.6,
+      "precision@10": 0.3,
+      "found": 3,
+      "total_gt": 5
+    },
+    {
+      "query": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a ...",
+      "recall@10": 0.1111111111111111,
+      "precision@10": 0.1,
+      "found": 1,
+      "total_gt": 9
+    },
+    {
+      "query": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 ...",
+      "recall@10": 0.16666666666666666,
+      "precision@10": 0.1,
+      "found": 1,
+      "total_gt": 6
+    },
+    {
+      "query": "We're looking for a Marketing Manager who can drive Recro\u2019s brand positioning, c...",
+      "recall@10": 0.2,
+      "precision@10": 0.1,
+      "found": 1,
+      "total_gt": 5
+    },
+    {
+      "query": "Based on the JD below recommend me assessment for the Consultant position in my ...",
+      "recall@10": 0.0,
+      "precision@10": 0.0,
+      "found": 0,
+      "total_gt": 5
+    },
+    {
+      "query": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in...",
+      "recall@10": 0.5,
+      "precision@10": 0.5,
+      "found": 5,
+      "total_gt": 10
+    }
+  ]
+}
