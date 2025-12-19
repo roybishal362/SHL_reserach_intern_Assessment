@@ -37,10 +37,6 @@ wheels/
 # Playwright
 playwright/.auth/
 
-# Data (exclude large files but keep structure)
-data/*.json
-data/*.csv
-data/faiss_index/
 
 # Logs
 *.log
